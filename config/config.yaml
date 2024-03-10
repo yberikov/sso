@@ -1,0 +1,4 @@
+env: "local"
+storage_path: "./storage/sso.db"
+address: "localhost:8080"
+timeout: 5s
